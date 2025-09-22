@@ -132,8 +132,14 @@ body {
         .header .itms ul{
            background-image: url(../img/b2.jpg);
             width: 100%;
+            
         }
-
+.header .itms {
+    margin-right: 50px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
  }
    
   
@@ -291,6 +297,9 @@ body {
   @media (max-width: 768px) {
     .landing .row2{
         height: 111%;
+      }
+      .poss .row2{
+        margin-top: 200px;
       }
     .landing  .tex2{
         height: 63%;
