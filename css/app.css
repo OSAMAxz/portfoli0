@@ -135,10 +135,7 @@ body {
             
         }
 .header .itms {
-    margin-right: 110px;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+    margin-left: -70px;
 }
  }
    
@@ -616,4 +613,5 @@ margin-bottom: 20px;
         font-size: 90%;
       }
 }
+
 
